@@ -21,5 +21,5 @@ At the end of data preprocessing, a cleaning function from the above steps was c
 * Dimentionality reduction by principal component analysis
 * Performing k-means clustering on the PCA-transformed data( Elbow curve determined the best number of clusters)
 
-At the end population cluster were compared with customer cluster
+At the end, population clusters were compared with customer clusters
 
